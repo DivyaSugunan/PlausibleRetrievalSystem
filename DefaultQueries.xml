@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Query id= "1">
+  <Scenario>
+	Rahul had big craze over consumer electronic items especially apple products.He wanted to grab a nice iphone at nominal prices during the thanksgiving sales. 
+In addition, he wants to know about the quality,performance of iphone models. He looks for blog posts which contains information on good deals and also help support for issues with used apple products to understand the pros and cons before buying one. Rahul wants to proactively assess the issues that he might  encounter while using the phone technically as well as other glitches. 
+  </Scenario>
+ <InformationNeed>
+    information about iphone deals and help support guidance for any issues with used ones.
+  </InformationNeed>
+  <Query>
+    latest iphone deals with help support
+  </Query>
+  <Entities>
+    	<Entity>THING.DEVICE</Entity>
+	<Entity>THING.UNKNOWN</Entity>
+  </Entities>
+<Actions>
+	<Action>latest</Action>
+	<Action>support</Action> 
+	<Action>help</Action> 
+</Actions>
+</Query>
+
+
+<Query id= "2"> 
+<Scenario> 
+Paul is a 60 year old man who is just getting used to computers. He wants to know how he could download his favorite 80?s and 90?s songs from the internet. 
+</Scenario> 
+<InformationNeed> 
+Instructions on how to download songs from the internet. 
+</InformationNeed>
+<Query> download songs </Query> 
+<Entities> 
+<Entity>THING.WORK.MUSICALWORK.SONG</Entity> 
+</Entities> 
+<Action> DOWNLOAD </Action>
+</Query>
+	
+	
+<Query id= "3">
+<scenario>
+Myra has to do an English poetry assignment. So she wants to refer to some poems online.
+</scenario>
+
+<InformationNeed>
+To return the documents containing poems about life.
+</InformationNeed>
+
+<Query>
+Poems about life.
+</Query>
+
+<Entities>
+THING.WORK.WRITTEN WORK.POEM
+</Entities>
+</Query>
+	
+	
+	
+	
+<Query id= "4">
+<Scenario>
+Rachel bought a new house and she wants to make a beautiful garden. She has never built a garden before. So she is confused about what all species of plants can be used for gardening. She would like to find documents where details about what plants can be used for gardening and help and guidance from others who are already maintaining a garden.
+</Scenario>
+<InformationNeed>
+Info about which plants can be used and help for making garden
+</InformationNeed>
+<Query>
+PLANTS to MAKE GARDEN
+</Query>
+<Entities>
+<Entity>THING.PLACE.GARDEN</Entity>
+<Entity>THING.SPECIES.PLANT</Entity>
+</Entities>
+<Actions>
+<Action> MAKE </Action>
+</Actions>
+</Query>
+
+<Query id= "5">
+  <Scenario>
+Mrs. Smith has three children. She has a hard time letting her children stay at table and enjoy their meal. So she wants to find out what kinds of healthy food children will be delighted to eat. She needs advice from other moms and to see their family recipes kids actually like.
+  </Scenario>
+  <InformationNeed>
+    Some recipes for children like to eat.
+  </InformationNeed>
+  <Query>
+    FOOD CHILDREN LIKE to EAT
+  </Query>
+  <Entities>
+    <Entity>THING.CONCEPT.CHILD</Entity>
+    <Entity>THING.FOOD</Entity>
+  </Entities>
+  <Actions>
+	<Action>LIKE</Action>
+    <Action>EATS</Action>
+  </Actions>
+</Query>
+
+<Query id="6">
+  <Scenario>
+Bryan loves Greek history. He want to know some things about Greek Olympic histroy.
+  </Scenario>
+  <InformationNeed>
+    Things about Greek Olympic history.
+  </InformationNeed>
+  <Query>
+    Greek Olympic history
+  </Query>
+  <Entities>
+    <Entity>THING.PLACE.PopulatedPlace.country</Entity>
+  </Entities>
+</Query>
+
+	<Query id = "7">
+		<Scenario>
+			NPR movies editor Trey Graham roams around the world to create a docummentary
+			movie. His current focus is to find the famous restaurants all over the world.
+			This time his new approach is to consider the people as critics for choosing
+			nice places to lunch at. He would like to find the rstaurants which offers
+			deliciuos dishes, particularly at the lunch time.
+		</Scenario>
+		<InformationNeed>
+			Info about good restaurants offering delicious dishes for lunch.
+		</InformationNeed>
+		<Query>
+			Lunch at restaurants with delicious dishes
+		</Query>
+		<Entities>
+			<Entity>THING.FOOD.DISH</Entity>
+			<Entity>THING.PLACE.ARCHITECTURALSTRUCTURE.BUILDING.RESTAURANT</Entity>
+			<Entity>THING.FOOD</Entity>
+		</Entities>
+		<Actions>
+			<Action>Lunch</Action>
+		</Actions>
+	</Query>
+</Root> 
