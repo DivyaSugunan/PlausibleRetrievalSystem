@@ -1,5 +1,5 @@
 # PlausibleRetrievalSystem
-In this project, an information retrieval architecture involving several modules has to be
+In this project, an information retrieval architecture involving several modules is
 built. The main characteristic of this project is that it builds a modern retrieval
 framework that takes into account plausibility information expressed in documents.
 That is, each action (e.g. eating, cooking, surfing, selling) that is mentioned in a
@@ -13,6 +13,7 @@ such as THING.AGENT.PERSON which indicates a person (e.g. Sarah, Bryan) or
 THING.FOOD which indicates some sort of food (e.g. cake, steak, pizza).
 We will loosely define an action as any verb that expresses something that an entity
 can do (e.g. the man ate the cake, the cat drank milk).
+The tasks in this project are:
 TASK: Dataset Acquisition
 TASK: Index Construction
 TASK: Query Formulation
