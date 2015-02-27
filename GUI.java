@@ -182,7 +182,7 @@ public class GUI extends JFrame implements ActionListener, ItemListener {
 
 
                 // write code to stopWordRemove, parse, lemma,stemma,
-                //send this list to task 3  		
+                //send this list to task 3.		
 
             }
         }
