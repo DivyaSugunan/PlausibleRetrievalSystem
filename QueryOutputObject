@@ -1,0 +1,110 @@
+package irintegratedproject;
+
+
+public class QueryOutputObject {
+
+	Integer queryID;
+	Integer docID;
+	String title;
+	String url;
+	Integer rank;
+	Float score;
+	
+	String relevance;
+	String comments;
+	
+	String RelevanceCommentsFormat;
+	String ScoreRankFormat;
+	
+	public QueryOutputObject(){
+		
+	}
+	public QueryOutputObject(Integer queryID,	Integer docID,	String title,	String url,	Integer rank,	Float score){
+		this.queryID = queryID;
+		this.docID = docID;
+		this.title = title;
+		this.url = url;
+		this.rank = rank;
+		this.score = score;
+	}
+	
+	public void setRelevance(String relevance){
+		this.relevance = relevance;
+	}
+	public void setComments(String comment){
+		this.comments = comment;
+	}
+	public void setQueryID(Integer queryID){
+		this.queryID = queryID;
+	}
+	public void setDocID(Integer docID){
+		this.docID = docID;
+	}
+	public void setTitle(String title){
+		this.title = title;
+	}
+	public void setUrl(String url){
+		this.url = url;
+	}
+	public void setRank(Integer rank){
+		this.rank = rank;
+	}
+	public void setScore(Float score){
+		this.score = score;
+	}
+	
+	
+	
+	
+	public String getRelevance(){
+		return this.relevance;
+	}
+	public String getComments(){
+		return this.comments;
+	}
+	public Integer getQueryID(){
+		return this.queryID;
+	}
+	public Integer getDocID(){
+		return this.docID;
+	}
+	public String getTitle(){
+		return this.title;
+	}
+	public String getUrl(){
+		return this.url;
+	}
+	public Integer getRank(){
+		return this.rank;
+	}
+	public Float getScore(){
+		return this.score;
+	}
+	
+	public String getRelevanceCommentFormat(){
+		StringBuffer sb = new StringBuffer();
+		String delimeter = " | ";
+		sb.append(this.queryID); sb.append(delimeter);
+		sb.append(this.docID); sb.append(delimeter);
+		sb.append(this.title); sb.append(delimeter);
+		sb.append(this.url); sb.append(delimeter);
+		sb.append(this.relevance); sb.append(delimeter);
+		sb.append(this.comments); 
+		
+		return sb.toString();
+		
+	}
+	public String getScoreRankFormat(){
+		StringBuffer sb = new StringBuffer();
+		String delimeter = " | ";
+		sb.append(this.queryID); sb.append(delimeter);
+		sb.append(this.docID); sb.append(delimeter);
+		sb.append(this.title); sb.append(delimeter);
+		sb.append(this.url); sb.append(delimeter);
+		sb.append(this.score); sb.append(delimeter);
+		sb.append(this.rank); 
+		
+		return sb.toString();
+		
+	}
+}
