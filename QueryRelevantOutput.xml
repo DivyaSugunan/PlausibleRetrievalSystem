@@ -1,0 +1,2940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+ 	<Queryid id = "1">
+		<Docid id = "120900">
+			<Relevance> 1 </Relevance>
+			<Comment>   This document is relevant as it tells about the iphone latest deals that user wants to know </Comment>
+		</Docid>
+		<Docid id = "146093">
+			<Relevance> 1  </Relevance>
+			<Comment>   This document is relevant as it updates on the iphone latest releases</Comment>
+		</Docid>
+		<Docid id = "176994">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  as it explains about the new OTA zimbra link feature for iphones</Comment>
+		</Docid>
+		<Docid id = "104221">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it helps supports on iphone jailbreaking issues and resolution </Comment>
+		</Docid>
+		<Docid id = "160466 ">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant to iphone deals </Comment>
+		</Docid>
+		<Docid id = "149789">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  as it discusses about iphone issues and help support</Comment>
+		</Docid>
+		<Docid id = "191595">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it discusses about iphone help support  </Comment>
+		</Docid>
+		<Docid id = "175650">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  as it discusses about help with itunes for iphones </Comment>
+		</Docid>
+		<Docid id = "152505">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant about iphone usages with latest sms features</Comment>
+		</Docid>
+		<Docid id = "172696">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  about discussing on third party iphones</Comment>
+		</Docid>
+		<Docid id = "95935">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it discusses about iphone help </Comment>
+		</Docid>
+		/*10 */
+		<Docid id = "223578">
+			<Relevance> 1 </Relevance>
+			<Comment>   This document is relevant as it explains about new iphone issues </Comment>
+		</Docid>
+		<Docid id = "202407">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant worms in iphones and how to overcome such issues </Comment>
+		</Docid>
+		<Docid id = "167473">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant 3G iphones </Comment>
+		</Docid>
+		<Docid id = "220379">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant  talking about iphone SIM issues </Comment>
+		</Docid>
+		<Docid id = "188364">
+			<Relevance> 0 </Relevance>
+			<Comment>   this document is not that related to the topic since it tells about remote dektop issues and not with iphones deals or help support </Comment>
+		</Docid>
+		<Docid id = "216316">
+			<Relevance> 1 </Relevance>
+			<Comment>   this documents is relevant since it deals with iphone issues and resolution </Comment>
+		</Docid>
+		<Docid id = "200827">
+			<Relevance>  1</Relevance>
+			<Comment>  relevant since talks about comparing features of iphones with other phones  </Comment>
+		</Docid>
+		<Docid id = "213577">
+			<Relevance>0 </Relevance>
+			<Comment>   not that relevant since speaks about current iphone users' network outages </Comment>
+		</Docid>
+		<Docid id = "215891">
+			<Relevance> 0 </Relevance>
+			<Comment>   not that relevant since speaks about current iphone users' network outages </Comment>
+		</Docid>
+		<Docid id = "216814">
+			<Relevance> 0 </Relevance>
+			<Comment>  not that relevant since speaks about current iphone users' network outages   </Comment>
+		</Docid>
+		//20
+		
+		<Docid id = "201377">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant to the input query</Comment>
+		</Docid>
+		<Docid id = "178954">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant since discusses about the latest iphones deals and prices </Comment>
+		</Docid>
+		<Docid id = "185946">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant since discusses about the latest iphones deals and prices  </Comment>
+		</Docid>
+		<Docid id = "105761">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant with integrating audi cars with iphones  </Comment>
+		</Docid>
+		<Docid id = "99611">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant deals with iphone contact sync issuess </Comment>
+		</Docid>
+		<Docid id = "105129">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant with iphone 3g issues </Comment>
+		</Docid>
+		<Docid id = "226485">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant:  iphone 3g issues </Comment>
+		</Docid>
+		<Docid id = "142009">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant: iphone tool for mac integration not relating to input query</Comment>
+		</Docid>
+		<Docid id = "130330">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant simply a travel blog </Comment>
+		</Docid>
+		<Docid id = "178542">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant iphone 3G help </Comment>
+		</Docid>
+		
+		//30
+		
+		<Docid id = "137877">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant : someone speaking about iphone </Comment>
+		</Docid>
+		<Docid id = "191426">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant since mainly a developer blog </Comment>
+		</Docid>
+		<Docid id = "193644">
+			<Relevance>	 1 </Relevance>
+			<Comment>  relevant   </Comment>
+		</Docid>
+		<Docid id = "116306">
+			<Relevance> 1 </Relevance>
+			<Comment>   apple iphone launches </Comment>
+		</Docid>
+		<Docid id = "125691">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  ihpone issues and help support </Comment>
+		</Docid>
+		<Docid id = "90138">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "90969">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant: iphone deals latest  </Comment>
+		</Docid>
+		<Docid id = "84231">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant: iphone battery help  </Comment>
+		</Docid>
+		<Docid id = "127810">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "158147">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		//40
+		
+		<Docid id = "142659">
+			<Relevance>0 </Relevance>
+			<Comment>   not relevant talks about LG blue-rays </Comment>
+		</Docid>
+		<Docid id = "162755">
+			<Relevance>0</Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "213761">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant : help with installations in iphones </Comment>
+		</Docid>
+		<Docid id = "241721">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "85106">
+			<Relevance> 0 </Relevance>
+			<Comment>   not that relevant </Comment>
+		</Docid>
+		<Docid id = "108363">
+			<Relevance>  1</Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "203627">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "106272">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant </Comment>
+		</Docid>
+		<Docid id = "112264">
+			<Relevance> 0 </Relevance>
+			<Comment>    note relevant </Comment>
+		</Docid>
+		<Docid id = "88326">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		//50
+		
+		<Docid id = "98475">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "213763">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "146073">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "101294">
+			<Relevance> 1 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "110579">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "165975">
+			<Relevance>  1</Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "217208">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "233856">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		
+		<Docid id = "101295">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "88688">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		//60
+		
+		<Docid id = "98413">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "98926">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "177223 ">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant   </Comment>
+		</Docid>
+		<Docid id = "210606">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "228628 ">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "220661">
+			<Relevance>1 </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "233511">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "179364">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "222809">
+			<Relevance>0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "246549">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		//70
+		
+		<Docid id = "86335">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant </Comment>
+		</Docid>
+		<Docid id = "81602">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "84232">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		
+		<Docid id = "194970">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "195043">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "105596">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		
+		<Docid id = "121636">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "104361 ">
+			<Relevance>  0</Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "146931">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid><Docid id = "155603">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		//80
+		
+		<Docid id = "103318">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "107173">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "225977">
+			<Relevance>1  </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "232997">
+			<Relevance> 1 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "208782 ">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "130606">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "150524">
+			<Relevance>  0</Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "193773">
+			<Relevance> 0 </Relevance>
+			<Comment>    relevant </Comment>
+		</Docid>
+		
+		<Docid id = "195006">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "109712 ">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant </Comment>
+		</Docid>
+		//90
+		
+		<Docid id = "">
+			<Relevance>  </Relevance>
+			<Comment>    </Comment>
+		</Docid>
+		
+		<Docid id = "222186">
+			<Relevance>  0</Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "80514">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "141755">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "110145">
+			<Relevance> 0 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "224222">
+			<Relevance> 0 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "79556">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "84012">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "107039">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "107039">
+			<Relevance>0  </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		//100
+
+	</Queryid>
+	
+		<!-- ************************************************************************************************************************ -->
+	
+	
+	<!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 2 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<Queryid id = "2">
+
+		<Docid id = "86284">
+			<Relevance> 1 </Relevance>
+			<Comment>   This document is relevant as it tells about whether you can download songs on your phone</Comment>
+		</Docid>
+		<Docid id = "167336">
+			<Relevance> 0  </Relevance>
+			<Comment>   This document is not relevant as it talks about whether files will get deleted</Comment>
+		</Docid>
+		<Docid id = "104489">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  as it talks about how to download music</Comment>
+		</Docid>
+		<Docid id = "139851">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about downloading an app to download songs </Comment>
+		</Docid>
+		<Docid id = "90760">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is about someone asking for a website to download music free and legally </Comment>
+		</Docid>
+		<Docid id = "202549">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  as it discusses about downloading songs using an application</Comment>
+		</Docid>
+		<Docid id = "146624">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it discusses about downloading music from one computer to another  </Comment>
+		</Docid>
+		<Docid id = "81978">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant  as it discusses about downloading music into xbox </Comment>
+		</Docid>
+		<Docid id = "120642">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document is not relevant. it talks about memory issues as the main subject</Comment>
+		</Docid>
+		<Docid id = "88265">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document is not relevant it is about issues other than downloading music.</Comment>
+		</Docid>
+		<Docid id = "105753">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it discusses about downloading and setting songs as ringtones </Comment>
+		</Docid>
+		<Docid id = "109637">
+			<Relevance> 1 </Relevance>
+			<Comment>   This document is relevant as it asks how to download songs into an ipod. </Comment>
+		</Docid>
+		<Docid id = "93101">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant talks about downloading songs in ipad and how to overcome such issues </Comment>
+		</Docid>
+		<Docid id = "171795">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant 3G music from phone to pc </Comment>
+		</Docid>
+		<Docid id = "85261">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is irrelevant  talking about some band releasing a song </Comment>
+		</Docid>
+		<Docid id = "115041">
+			<Relevance> 1 </Relevance>
+			<Comment>   this document is relevant. talks about itunes being blcoked. </Comment>
+		</Docid>
+		<Docid id = "116034">
+			<Relevance> 1 </Relevance>
+			<Comment>   this documents is relevant since it deals with Itunes blocked in china </Comment>
+		</Docid>
+		<Docid id = "118966">
+			<Relevance>  1</Relevance>
+			<Comment>  relevant since talks about itunes problems downlaoding.  </Comment>
+		</Docid>
+		<Docid id = "116866">
+			<Relevance>1 </Relevance>
+			<Comment>relevant since speaks about issues while downloading </Comment>
+		</Docid>
+		<Docid id = "118823">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant since speaks about itunes blocked in china </Comment>
+		</Docid>
+		<Docid id = "83876">
+			<Relevance> 0 </Relevance>
+			<Comment>  not that relevant since speaks about backup   </Comment>
+		</Docid>
+		<Docid id = "115013">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant to the input query</Comment>
+		</Docid>
+		<Docid id = "84437">
+			<Relevance> 0 </Relevance>
+			<Comment>    relevant since discusses about some band </Comment>
+		</Docid>
+		<Docid id = "110316">
+			<Relevance> 0 </Relevance>
+			<Comment>  irrelevant since discusses about device issues </Comment>
+		</Docid>
+		<Docid id = "151636">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant speaks about downloading music into a tv  </Comment>
+		</Docid>
+		<Docid id = "119902">
+			<Relevance> 0 </Relevance>
+			<Comment>  irelevant deals with some story about downloading </Comment>
+		</Docid>
+		<Docid id = "150123">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant with itunes download problems</Comment>
+		</Docid>
+		<Docid id = "143489">
+			<Relevance> 0 </Relevance>
+			<Comment> irrelevant: talks about some movie. </Comment>
+		</Docid>
+		<Docid id = "108138">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant: talks about some band</Comment>
+		</Docid>
+		<Docid id = "190343">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant simply about a band </Comment>
+		</Docid>
+		<Docid id = "225930">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant new i tunes version info </Comment>
+		</Docid>
+		<Docid id = "87294">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant : someone speaking about canada songs </Comment>
+		</Docid>
+		<Docid id = "89884">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant since mainly about canada music </Comment>
+		</Docid>
+		<Docid id = "138145">
+			<Relevance>0</Relevance>
+			<Comment>  irrelevant some band   </Comment>
+		</Docid>
+		<Docid id = "90408">
+			<Relevance> 0 </Relevance>
+			<Comment>talks about some singer.</Comment>
+		</Docid>
+		<Docid id = "126868">
+			<Relevance> 0 </Relevance>
+			<Comment>  irrelevant </Comment>
+		</Docid>
+		<Docid id = "177429">
+			<Relevance> 0 </Relevance>
+			<Comment>   irrelevant </Comment>
+		</Docid>
+		<Docid id = "176030">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant download speeds.  </Comment>
+		</Docid>
+		<Docid id = "177353">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant: download speeds  </Comment>
+		</Docid>
+		<Docid id = "182832">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "237581">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant rhapsody app to download songs </Comment>
+		</Docid>
+		<Docid id = "130606">
+			<Relevance>1 </Relevance>
+			<Comment>  relevant app to download songs</Comment>
+		</Docid>
+		<Docid id = "177255">
+			<Relevance>1</Relevance>
+			<Comment>  relevant download accelerator. </Comment>
+		</Docid>
+		<Docid id = "139385">
+			<Relevance> 0 </Relevance>
+			<Comment>   irrelevant  </Comment>
+		</Docid>
+		<Docid id = "107063">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant </Comment>
+		</Docid>
+		<Docid id = "139099">
+			<Relevance> 0 </Relevance>
+			<Comment>   irrelevant </Comment>
+		</Docid>
+		<Docid id = "148960">
+			<Relevance>  1</Relevance>
+			<Comment>  relevant links to download  </Comment>
+		</Docid>
+		<Docid id = "191042">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant Itunes help </Comment>
+		</Docid>
+		<Docid id = "230699">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant some band </Comment>
+		</Docid>
+		<Docid id = "232500">
+			<Relevance> 0 </Relevance>
+			<Comment>   irrelevant some band </Comment>
+		</Docid>
+		<Docid id = "142155">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant download manager issues </Comment>
+		</Docid>
+		<Docid id = "143150">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "230773">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "100745">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant download faster  </Comment>
+		</Docid>
+		<Docid id = "84017">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "84647">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant</Comment>
+		</Docid>
+		<Docid id = "186229">
+			<Relevance>  0</Relevance>
+			<Comment>   irrelevant  download photography software</Comment>
+		</Docid>
+		<Docid id = "223852">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "84307 ">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		
+		<Docid id = "85981">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "95205">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "177537">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "111083">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "187506">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant   </Comment>
+		</Docid>
+		<Docid id = "241703">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "197642">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "105445">
+			<Relevance>1 </Relevance>
+			<Comment>   relevant music update </Comment>
+		</Docid>
+		<Docid id = "159855">
+			<Relevance> 0 </Relevance>
+			<Comment>  irrelevant  </Comment>
+		</Docid>
+		<Docid id = "192146">
+			<Relevance> 0 </Relevance>
+			<Comment>  irrelevant  </Comment>
+		</Docid>
+		<Docid id = "202264">
+			<Relevance>0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "228699">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant metallica article</Comment>
+		</Docid>
+		<Docid id = "236648">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant </Comment>
+		</Docid>
+		<Docid id = "190479">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "140327">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		
+		<Docid id = "101441">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "103237">
+			<Relevance> 0 </Relevance>
+			<Comment>   irrelevant windows update </Comment>
+		</Docid>
+		<Docid id = "108594">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant music download </Comment>
+		</Docid>
+		
+		<Docid id = "112989">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant</Comment>
+		</Docid>
+		<Docid id = "113845">
+			<Relevance>  0</Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "120901">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid><Docid id = "121724">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant wordpress theme </Comment>
+		</Docid>
+		<Docid id = "135323">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant</Comment>
+		</Docid>
+		<Docid id = "145145">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "145212">
+			<Relevance>0  </Relevance>
+			<Comment>   irrelevant roommate finder </Comment>
+		</Docid>
+		<Docid id = "151088">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant wordpress theme</Comment>
+		</Docid>
+		<Docid id = "159760">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "173122">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant itunes download</Comment>
+		</Docid>
+		<Docid id = "201907">
+			<Relevance>  1</Relevance>
+			<Comment>   relevant download music question </Comment>
+		</Docid>
+		<Docid id = "215708">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant antivirus download </Comment>
+		</Docid>
+		
+		<Docid id = "231713">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant</Comment>
+		</Docid>
+		<Docid id = "234435">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant </Comment>
+		</Docid>
+		<Docid id = "89133">
+			<Relevance> 1 </Relevance>
+			<Comment>   relevant donwload music i tunes american idol. </Comment>
+		</Docid>
+		
+		<Docid id = "98142">
+			<Relevance>  0</Relevance>
+			<Comment>   not relevant </Comment>
+		</Docid>
+		<Docid id = "200705">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "86736">
+			<Relevance> 0 </Relevance>
+			<Comment>   irrelevant </Comment>
+		</Docid>
+		<Docid id = "165905">
+			<Relevance> 0 </Relevance>
+			<Comment>    irrelevant</Comment>
+		</Docid>
+		<Docid id = "95090">
+			<Relevance> 0 </Relevance>
+			<Comment>    relevant</Comment>
+		</Docid>
+		<Docid id = "213744 ">
+			<Relevance> 0 </Relevance>
+			<Comment>    not relevant vmware stuff.</Comment>
+		</Docid>
+        </Queryid>	
+	
+	<!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 3 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<Queryid id = "3">
+	    <Docid id = "79486">
+			<Relevance> 1  </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life  </Comment>
+		</Docid>
+		<Docid id = "84046">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life </Comment>
+		</Docid>
+		<Docid id = "124803">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "101836">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "95070">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "95990">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "84208">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "168874">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document is not relevant as it does not talk about poems on life  </Comment>
+		</Docid>
+		<Docid id = "233966">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "220749">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 10 ######################################## -->
+		
+		<Docid id = "198889">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "191031">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "176789">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "92666">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "178919">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "167338">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "180478">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life  </Comment>
+		</Docid>
+		<Docid id = "184761">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life  </Comment>
+		</Docid>
+		<Docid id = "107120">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "138862">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 20 ######################################## -->
+		
+		<Docid id = "175016">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "90326">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "94731">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "217827">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life    </Comment>
+		</Docid>
+		<Docid id = "125535">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "109624">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life    </Comment>
+		</Docid>
+		<Docid id = "196331">
+			<Relevance> 0  </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life    </Comment>
+		</Docid>
+		<Docid id = "212272">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life    </Comment>
+		</Docid>
+		<Docid id = "212780">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life    </Comment>
+		</Docid>
+		<Docid id = "196763">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life    </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 30 ######################################## -->
+		
+		<Docid id = "228017">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "196725">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "140900">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "131111">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "166594">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life    </Comment>
+		</Docid>
+		<Docid id = "167678">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "236185">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "235218">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "132994">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "242121">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 40 ######################################## -->
+		
+		<Docid id = "143298">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life </Comment>
+		</Docid>
+		<Docid id = "147098">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life </Comment>
+		</Docid>
+		<Docid id = "212269">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "237185">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "244586">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life </Comment>
+		</Docid>
+		<Docid id = "125634">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life </Comment>
+		</Docid>
+		<Docid id = "196230">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life </Comment>
+		</Docid>
+		<Docid id = "211770">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "237842">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "89719">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 50 ######################################## -->
+		
+		<Docid id = "177709">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "197067">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "217521">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "238148">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "244817">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "247959">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "92040">
+			<Relevance> 0 </Relevance>
+			<Comment>    </Comment>
+		</Docid>
+		<Docid id = "124386">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "143027">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "181595">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 60 ######################################## -->
+		
+		<Docid id = "218623">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "126084">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "230834">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "243465">
+			<Relevance> 1 </Relevance>
+			<Comment>    </Comment>
+		</Docid>
+		<Docid id = "175393">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "83653">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "152396">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "84122">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "174138">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "147672">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 70 ######################################## -->
+		
+		<Docid id = "220767">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "221577">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "115923">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "186961">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "197732">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "238869">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "93386">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "225149">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "125537">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "122736">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 80 ######################################## -->
+		
+		<Docid id = "194203">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "141476">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "200221">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "148579">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "219124">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "146866">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "165182">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "175966">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "240644">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "246060">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 3 End of first 90 ######################################## -->
+		
+		<Docid id = "175966">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "88479">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "202273">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "111059">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "122024">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "239297">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "118747">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "107238">
+			<Relevance> 1 </Relevance>
+			<Comment> This document is relevant as it talks about poems on life   </Comment>
+		</Docid>
+		<Docid id = "150904">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+		<Docid id = "160726">
+			<Relevance> 0 </Relevance>
+			<Comment> This document is not relevant as it does not talk about poems on life   </Comment>
+		</Docid>
+	</Queryid>    
+	
+	
+	<!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 4 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 4 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<Queryid id = "4">
+	    <Docid id = "101422">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document talks about how to care the garden plants such as tomato, cotton and broccoli  </Comment>
+		</Docid>
+		<Docid id = "200071">
+			<Relevance> 1 </Relevance>
+			<Comment>  Document discuss about bonsai as garden plant  </Comment>
+		</Docid>
+		<Docid id = "149704">
+			<Relevance> 1 </Relevance>
+			<Comment>  Document says how garden can be maintained on frosty days  </Comment>
+		</Docid>
+		<Docid id = "229881">
+			<Relevance> 1 </Relevance>
+			<Comment> Document says what plants can be used for garden and how it can be maintained   </Comment>
+		</Docid>
+		<Docid id = "165328">
+			<Relevance> 1 </Relevance>
+			<Comment>  Document mentions what steps should be taken to avoid pests and mildew in garden  </Comment>
+		</Docid>
+		<Docid id = "185086">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document says about roses and pansies but not about how to make or maintain garden  </Comment>
+		</Docid>
+		<Docid id = "120433">
+			<Relevance> 1  </Relevance>
+			<Comment>    </Comment>
+		</Docid>
+		<Docid id = "">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions about a garden shop  </Comment>
+		</Docid>
+		<Docid id = "120433">
+			<Relevance>  </Relevance>
+			<Comment>    </Comment>
+		</Docid>
+		<Docid id = "246284">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says how rainfall can be good for garden plants   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 10 ######################################## -->
+		
+		<Docid id = "144555">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says how bamboo can be planted in a garden  </Comment>
+		</Docid>
+		<Docid id = "132655">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says the flowering properties of some species of plants   </Comment>
+		</Docid>
+		<Docid id = "144892">
+			<Relevance> 0 </Relevance>
+			<Comment> The document does not say about making garden or maintenance  </Comment>
+		</Docid>
+		<Docid id = "138120">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about the plants in authors garden  </Comment>
+		</Docid>
+		<Docid id = "228288">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says about the features and flowering properties of various garden plants in each season   </Comment>
+		</Docid>
+		<Docid id = "245847">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says the perfect time to plant in a season  </Comment>
+		</Docid>
+		<Docid id = "196194">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says what I should not do while gardening  </Comment>
+		</Docid>
+		<Docid id = "221953">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document  says how tomatoes can be grown in gaeden </Comment>
+		</Docid>
+		<Docid id = "230071">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions about graden but not about how to make or maintain it  </Comment>
+		</Docid>
+		<Docid id = "144847">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions life of a person and garden. It does not say about plant species or garden maintenance  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 20 ######################################## -->
+		
+		<Docid id = "99667">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document saya aboout plant varieties in a garden and its maintenance  </Comment>
+		</Docid>
+		<Docid id = "131334">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says garden experience at different seasons  </Comment>
+		</Docid>
+		<Docid id = "132126">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says about garden experince of various plants  </Comment>
+		</Docid>
+		<Docid id = "178628">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about how much tomatoes can be obtained from garden  </Comment>
+		</Docid>
+		<Docid id = "242514">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document says how the author got a plant as a bonus when he went to buy something else  </Comment>
+		</Docid>
+		<Docid id = "123918">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about how peppermint can be made a garden plant  </Comment>
+		</Docid>
+		<Docid id = "214511">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document talks about the garden plant zucchini  </Comment>
+		</Docid>
+		<Docid id = "217828">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document explains how the garden grows  </Comment>
+		</Docid>
+		<Docid id = "188678">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document describes the experiments conducted in plants in a garden  </Comment>
+		</Docid>
+		<Docid id = "193122">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says how to construct a garden, its fencing etc   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 30 ######################################## -->
+		
+		<Docid id = "109154">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not say about garden plants or its maintenance  </Comment>
+		</Docid>
+		<Docid id = "189676">
+			<Relevance> 1 </Relevance>
+			<Comment> The document talks about the plants in authors garden   </Comment>
+		</Docid>
+		<Docid id = "90954">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says the properties and blooming features of garden plants   </Comment>
+		</Docid>
+		<Docid id = "164180">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about how soil for gardening can be made fertile and what plants can be planted in garden  </Comment>
+		</Docid>
+		<Docid id = "97008">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says how plants can be protected from frost and what plants can be seeded for next season  </Comment>
+		</Docid>
+		<Docid id = "218006">
+			<Relevance> 1 </Relevance>
+			<Comment>  The documennt describes what all species of plants author planted in his garden and what varieties produced fruits  </Comment>
+		</Docid>
+		<Docid id = "245922">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document talks about the varieties of plants in garden and its features  </Comment>
+		</Docid>
+		<Docid id = "163119">
+			<Relevance>  </Relevance>
+			<Comment>    </Comment>
+		</Docid>
+		<Docid id = "163119">
+			<Relevance> 0 </Relevance>
+			<Comment> The document does not talk about garden plants   </Comment>
+		</Docid>
+		<Docid id = "12476">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions about the plant species that can be planted in a garden and how to harvest them  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 40 ######################################## -->
+		
+		<Docid id = "103308">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document says abput a dog going to a garden  </Comment>
+		</Docid>
+		<Docid id = "80510">
+			<Relevance> 0 </Relevance>
+			<Comment> The document says abput a person who maintained a gardens   </Comment>
+		</Docid>
+		<Docid id = "87169">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document describes the plants in authors garden and when it can be picked  </Comment>
+		</Docid>
+		<Docid id = "129302">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions what plaants can be planted in a garden for a family  </Comment>
+		</Docid>
+		<Docid id = "243227">
+			<Relevance> 1 </Relevance>
+			<Comment> The document describes how to do gardening   </Comment>
+		</Docid>
+		<Docid id = "191430">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not mention about how to make or maintain a garden  </Comment>
+		</Docid>
+		<Docid id = "164749">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says how to craete a garden and what all work should be done before planting  </Comment>
+		</Docid>
+		<Docid id = "179753">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says what all plants flowered and produced fruits in summer  </Comment>
+		</Docid>
+		<Docid id = "208910">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not mention about maintenance of garden or what plants can be planted   </Comment>
+		</Docid>
+		<Docid id = "90146">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document says about a botanical garden in US but not about how to construct a garden or plant varieties  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 50 ######################################## -->
+		
+		<Docid id = "245355">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document is not relevant since it does not mention about planting or garden maintenance  </Comment>
+		</Docid>
+		<Docid id = "246074">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says how a garden can be made succesfully  </Comment>
+		</Docid>
+		<Docid id = "213804">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about the plant varieties in authors garden and what all measures should be taken for its maintenance  </Comment>
+		</Docid>
+		<Docid id = "129353">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document is not relevant since it does not mention about planting or garden maintenance </Comment>
+		</Docid>
+		<Docid id = "248127">
+			<Relevance> 0 </Relevance>
+			<Comment> The document says how rainfall destructed a garden not about garden plants   </Comment>
+		</Docid>
+		<Docid id = "154718">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says how we can design a garden   </Comment>
+		</Docid>
+		<Docid id = "152475">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says about plant shopping and how plants can be bought for garden   </Comment>
+		</Docid>
+		<Docid id = "178977">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions about a backyard garden but not about its plants or maintenance  </Comment>
+		</Docid>
+		<Docid id = "199819">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document describes about the garden stuffs  </Comment>
+		</Docid>
+		<Docid id = "106549">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions something about watering plants but not matching to the query  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 60 ######################################## -->
+		
+		<Docid id = "128837">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions about the authors grandmothers work in a community garden not relevant about the query   </Comment>
+		</Docid>
+		<Docid id = "156847">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not talk about making a garden or tips  </Comment>
+		</Docid>
+		<Docid id = "155009">
+			<Relevance> 0 </Relevance>
+			<Comment>The document does not talk about making a garden or tips</Comment>
+		</Docid>
+		<Docid id = "94907">
+			<Relevance> 1 </Relevance>
+			<Comment> The document talks about variety of plants in a garden, its blooming periods   </Comment>
+		</Docid>
+		<Docid id = "107623">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document mentions some japanese gardens and rose gardens in canada but not about garden plants that can be plantd in a backyard  </Comment>
+		</Docid>
+		<Docid id = "229607">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says how to protect the garden  </Comment>
+		</Docid>
+		<Docid id = "138942">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions what all plants can be in a garden like tomatoes beans and peas  </Comment>
+		</Docid>
+		<Docid id = "162047">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not provide information regarding how to make a garden or garden tips  </Comment>
+		</Docid>
+		<Docid id = "183237">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document talks what plants can be planted in a garden and how to protect garden from turkey and other birds  </Comment>
+		</Docid>
+		<Docid id = "121198">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says how compost can be applied to garden  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 70 ######################################## -->
+		
+		<Docid id = "220838">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions about plants which can be used for garden and how they can be harvested  </Comment>
+		</Docid>
+		<Docid id = "189719">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document talk about a beetle found in a garden not about the garden  </Comment>
+		</Docid>
+		<Docid id = "217481">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions the updates on garden  </Comment>
+		</Docid>
+		<Docid id = "139499">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions about planting different species and how they grew up  </Comment>
+		</Docid>
+		<Docid id = "198255">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not provide information regarding how to make a garden or garden tips   </Comment>
+		</Docid>
+		<Docid id = "93458">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about how a garden can be protected from various pests and also talks about plant varieties in garden  </Comment>
+		</Docid>
+		<Docid id = "178200">
+			<Relevance> 1 </Relevance>
+			<Comment>   The document talks at what periods the plants should not be moved and what fruits the author got after harvesting </Comment>
+		</Docid>
+		<Docid id = "211231">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document gives emphasiz to spring season not to garden  </Comment>
+		</Docid>
+		<Docid id = "94539">
+			<Relevance> 0 </Relevance>
+			<Comment>   The document talks about Portland not about craeting garden or its maintennace tips </Comment>
+		</Docid>
+		<Docid id = "194391">
+			<Relevance> 0 </Relevance>
+			<Comment> The document talks about barrel pond not about garden   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 80 ######################################## -->
+		
+		<Docid id = "151596">
+			<Relevance> 1 </Relevance>
+			<Comment> The document says what plants the author harvested from garden   </Comment>
+		</Docid>
+		<Docid id = "200082">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document says about some pictures taken in some garden not releavnt to query  </Comment>
+		</Docid>
+		<Docid id = "149414">
+			<Relevance>1</Relevance>
+			<Comment>  The document says how to make a garden in one square yard of land  </Comment>
+		</Docid>
+		<Docid id = "196197">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about the plants the author planted and how to protect those plants  </Comment>
+		</Docid>
+		<Docid id = "134119">
+			<Relevance> 0 </Relevance>
+			<Comment>  This document does not mention about how to make a garden or tips  </Comment>
+		</Docid>
+		<Docid id = "159078">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about the plants in authors garden and whn they can be harvested  </Comment>
+		</Docid>
+		<Docid id = "163748">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not say about plants for garden or anything relevant to query  </Comment>
+		</Docid>
+		<Docid id = "187190">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says what all plants can be planted and what fruits can be produced from garden  </Comment>
+		</Docid>
+		<Docid id = "145251">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document mentions th eplants in authors garden  </Comment>
+		</Docid>
+		<Docid id = "206181">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about easiest plants that can be grown in garden  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 4 End of first 90 ######################################## -->
+		
+		<Docid id = "196417">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not mantion anything about garden plants relevant to query  </Comment>
+		</Docid>
+		<Docid id = "196417">
+			<Relevance> 0 </Relevance>
+			<Comment>   The document does not mantion anything about garden plants relevant to query   </Comment>
+		</Docid>
+		<Docid id = "188671">
+			<Relevance> 1 </Relevance>
+			<Comment>  This document says about a garden, its plants and maintennace  </Comment>
+		</Docid>
+		<Docid id = "210269">
+			<Relevance> 1 </Relevance>
+			<Comment> This document says how to start a garden and from where plants can be bought   </Comment>
+		</Docid>
+		<Docid id = "211320">
+			<Relevance> 1 </Relevance>
+			<Comment>  the document says about garden experiment planting resemary and basil  </Comment>
+		</Docid>
+		<Docid id = "205474">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not mantion anything about garden plants relevant to query   </Comment>
+		</Docid>
+		<Docid id = "108524">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not mention anything about garden plants relevant to query    </Comment>
+		</Docid>
+		<Docid id = "97007">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about how to plant water melon in garden  </Comment>
+		</Docid>
+		<Docid id = "186009">
+			<Relevance> 1 </Relevance>
+			<Comment>  The document says about gardening in the month of august  </Comment>
+		</Docid>
+		<Docid id = "197083">
+			<Relevance> 0 </Relevance>
+			<Comment>  The document does not mantion anything about garden plants relevant to query   </Comment>
+		</Docid>
+	</Queryid> 
+	
+	
+    <!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 5 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<Queryid id = "5">
+		<Docid id = "43945">
+			<Relevance> 1 </Relevance>
+			<Comment>  yes with much relevance   </Comment>
+		</Docid>
+		<Docid id = "88771">
+			<Relevance> 1  </Relevance>
+			<Comment>  not relevant, taking about eating like cat with recipes </Comment>
+		</Docid>
+		<Docid id = "15390">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant, a diary</Comment>
+		</Docid>
+		<Docid id = "13476">
+			<Relevance> 1 </Relevance>
+			<Comment> not relevant, restaurant food review with recommendations </Comment>
+		</Docid>
+		<Docid id = "16080">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "8968">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant, about about Bangkok </Comment>
+		</Docid>
+		<Docid id = "10097">
+			<Relevance> 1  </Relevance>
+			<Comment>  not relevant, about Mexican food </Comment>
+		</Docid>
+		<Docid id = "94816">
+			<Relevance> 1 </Relevance>
+			<Comment>   yes, about food for family   </Comment>
+		</Docid>
+		<Docid id = "71036">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant, about breakfast food  </Comment>
+		</Docid>
+		<Docid id = "64034">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant, good food for everyone </Comment>
+		</Docid>
+		<Docid id = "89130">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "31435">
+			<Relevance> 1  </Relevance>
+			<Comment> relevant, about Chinese food  </Comment>
+		</Docid>
+		<Docid id = "24397">
+			<Relevance> 1 </Relevance>
+			<Comment>relevant, blogs about food </Comment>
+		</Docid>
+		<Docid id = "26486">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "31640">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "96445">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant, about food for everyday  </Comment>
+		</Docid>
+		<Docid id = "42636">
+			<Relevance> 1  </Relevance>
+			<Comment>relevant, about food for different people </Comment>
+		</Docid>
+		<Docid id = "60940">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "63453">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "3827">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "35005">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "41585">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "52585">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "20595">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "89328">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "50617">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "9918">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "34927">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "90162">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "37695">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "40696">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "25135">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "36793">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "70312">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "88193">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "89132">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "61070">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "36599">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "99702">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "99066">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "30808">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "59607">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "30331">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "36159">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "32166">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "93139">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "92632">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "66489">
+			<Relevance> 1 </Relevance>
+			<Comment>relevant</Comment>
+		</Docid>
+		<Docid id = "8517">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "17291">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "5492">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "47936">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "86913">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "26241">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "16361">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "76224">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "85158">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "85439">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "54450">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "18263">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "39370">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "96255">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "24933">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "33729">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "48957">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "22937">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "102832">
+			<Relevance> 0   </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "16762">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "28631">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "49946">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "61336">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "36064">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "66314">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "23251">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "10595">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "19344">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "44173">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "75395">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "24820">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "86023">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "30729">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "59528">
+			<Relevance> 1  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "68325">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "42722">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "62128">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "69619">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "23304">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "59910">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "79653">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "52394">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "76278">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "86691">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "68779">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "52591">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "4304">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "88251">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "41996">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "97327">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "33527">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "1471">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		
+		
+		<!-- ################################################### QUERY 5 End of first 100 ######################################## -->
+		
+	</Queryid>
+
+		
+		
+
+    <!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 6 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<Queryid id = "6">
+		<Docid id = "101189">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "40915">
+			<Relevance> 1  </Relevance>
+			<Comment>  yes good relevance  </Comment>
+		</Docid>
+		<Docid id = "59228">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant </Comment>
+		</Docid>
+		<Docid id = "5236">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "61558">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "84264">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "888">
+			<Relevance> 0  </Relevance>
+			<Comment>  not relevant </Comment>
+		</Docid>
+		<Docid id = "88473">
+			<Relevance> 0 </Relevance>
+			<Comment>   not relevant  </Comment>
+		</Docid>
+		<Docid id = "47699">
+			<Relevance> 1 </Relevance>
+			<Comment>  relevant  </Comment>
+		</Docid>
+		<Docid id = "48700">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "36388">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant  </Comment>
+		</Docid>
+		<Docid id = "36000">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "27675">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "33037">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "85183">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "102546">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "79594">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "36385">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "36387">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "24874">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "32469">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "47949">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "53742">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "67579">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "61232">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "64012">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "14196">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "40710">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "50189">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "27549">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "62085">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "61384">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "10241">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "56799">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "30810">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "82533">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "61150">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "21894">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "40533">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "3580">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "35660">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "19730">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant</Comment>
+		</Docid>
+		<Docid id = "29685">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "45760">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "19159">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "92898">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "75172">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "39687">
+			<Relevance> 1 </Relevance>
+			<Comment>relevant</Comment>
+		</Docid>
+		<Docid id = "95811">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "32563">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "77340">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "56652">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "28976">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "77474">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "18247">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "37088">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "47553">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "29242">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "44283">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "33310">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant</Comment>
+		</Docid>
+		<Docid id = "33141">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "28762">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "80013">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "66999">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "73579">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "23906">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "27339">
+			<Relevance> 0   </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "16581">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "25099">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "13431">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "81961">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "68227">
+			<Relevance> 0  </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "27320">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "32335">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "48567">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "20208">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "2531">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "3050">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "84197">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "71349">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "98500">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "933">
+			<Relevance> 1  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "1686">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "6232">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "92959">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "44610">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "62859">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "79943">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "40845">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "59143">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "89244">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "26618">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "39694">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "25193">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant </Comment>
+		</Docid>
+		<Docid id = "17370">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "34504">
+			<Relevance> 0 </Relevance>
+			<Comment>  not relevant  </Comment>
+		</Docid>
+		<Docid id = "47086">
+			<Relevance> 0  </Relevance>
+			<Comment>not relevant </Comment>
+		</Docid>
+		<Docid id = "99487">
+			<Relevance> 0 </Relevance>
+			<Comment> not relevant  </Comment>
+		</Docid>
+		<Docid id = "43942">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		<Docid id = "47085">
+			<Relevance> 0 </Relevance>
+			<Comment>not relevant  </Comment>
+		</Docid>
+		
+		
+		<!-- ################################################### QUERY 6 End of first 100 ######################################## -->
+		
+	</Queryid> 
+	
+	<!-- ************************************************************************************************************************ -->
+	<!-- ****************************************   QUERY 7 STARTS HERE   ******************************************************* -->
+	<!-- ************************************************************************************************************************ -->
+	<Queryid id = "7">
+	  <Docid id = "80163">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant document : mentions Golden Unicorn restaurant for six delicious dishes   </Comment>
+		</Docid>
+		<Docid id = "81179">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant because specifies Lunch at MGM restaurants offering delicious dishes  </Comment>
+		</Docid>
+		<Docid id = "83090">
+			<Relevance> 1 </Relevance>
+			<Comment>  Lunch at Alexandra restaurant with delicious food  </Comment>
+		</Docid>
+		<Docid id = "84264">
+			<Relevance> 1 </Relevance>
+			<Comment>  Greek restaurant with Kona  </Comment>
+		</Docid>
+		<Docid id = "86480">
+			<Relevance> 1 </Relevance>
+			<Comment>  Lunch at Indian restaurants having popular dishes </Comment>
+		</Docid>
+		<Docid id = "88848">
+			<Relevance> 0  </Relevance>
+			<Comment>  Mensioned are not food dishes but the plate and lunch but not at restaurant  </Comment>
+		</Docid>
+		<Docid id = "89375">
+			<Relevance> 1 </Relevance>
+			<Comment> lunch one day at Cafe Hait in Lima, Inka Grill restaurant with delicious sauce  </Comment>
+		</Docid>
+		<Docid id = "89903">
+			<Relevance> 1 </Relevance>
+			<Comment>  Rheinlander for some German food and lunch at Alexis </Comment>
+		</Docid>
+		<Docid id = "90681">
+			<Relevance> 1  </Relevance>
+			<Comment> Restaurant for lunch, Esca Bimbadgen (790 McDonalds Rd, Pokolbin) was fantastic with awesome food  </Comment>
+		</Docid>
+		<Docid id = "91869">
+			<Relevance> 1 </Relevance>
+			<Comment>  Good Thai food restaurants for group lunch  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 10 ######################################## -->
+		
+		<Docid id = "93774">
+			<Relevance> 1 </Relevance>
+			<Comment> lunch at a banana leaf resteraunt, delicious brew   </Comment>
+		</Docid>
+		<Docid id = "94538">
+			<Relevance> 1  </Relevance>
+			<Comment>  quick lunch at the Mt. Hood Brew Pub (formerly the Ice Axe Grill) with delicious homemade sauces  </Comment>
+		</Docid>
+		<Docid id = "95883">
+			<Relevance> 1 </Relevance>
+			<Comment>  Chinese restaurants, delicious dishes  </Comment>
+		</Docid>
+		<Docid id = "100707">
+			<Relevance> 1 </Relevance>
+			<Comment>  lavish Korean restaurant at financial district for lunch  </Comment>
+		</Docid>
+		<Docid id = "105994">
+			<Relevance> 1 </Relevance>
+			<Comment>  deliciously beefy burger for lunch </Comment>
+		</Docid>
+		<Docid id = "111116">
+			<Relevance> 1 </Relevance>
+			<Comment>  BBQ restaurants  famous for lunch </Comment>
+		</Docid>
+		<Docid id = "111669">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not relevant as it talks about restaurants with delicious drinks  </Comment>
+		</Docid>
+		<Docid id = "113510">
+			<Relevance> 1 </Relevance>
+			<Comment>  Lovely dishes for lunch at restaurants  </Comment>
+		</Docid>
+		<Docid id = "113641">
+			<Relevance> 0  </Relevance>
+			<Comment>  Talks about Lunch at home not at restaurants  </Comment>
+		</Docid>
+		<Docid id = "113813">
+			<Relevance> 1 </Relevance>
+			<Comment>  sea-food dishes, delicious local biscotti for lunch at island restaurants  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 20 ######################################## -->
+		
+		<Docid id = "114555">
+			<Relevance> 1 </Relevance>
+			<Comment> little french restaurants with popular dishes </Comment>
+		</Docid>
+		<Docid id = "115533">
+			<Relevance> 0 </Relevance>
+			<Comment> Doesn't mention lunch but the other keywords   </Comment>
+		</Docid>
+		<Docid id = "116320">
+			<Relevance> 1  </Relevance>
+			<Comment>  Caribbean restaurant for lunch  </Comment>
+		</Docid>
+		<Docid id = "118637">
+			<Relevance> 0 </Relevance>
+			<Comment>  midtown restaurant but not lunch </Comment>
+		</Docid>
+		<Docid id = "119355">
+			<Relevance> 1 </Relevance>
+			<Comment>  Italian restaurant for nice lunch  </Comment>
+		</Docid>
+		<Docid id = "119491">
+			<Relevance> 0 </Relevance>
+			<Comment> Not relevant, it's about home party at lunch time with nice food dishes   </Comment>
+		</Docid>
+		<Docid id = "123622">
+			<Relevance> 1 </Relevance>
+			<Comment>  Rendezvous Charcoal Ribs for lunch at restaurant  </Comment>
+		</Docid>
+		<Docid id = "123719">
+			<Relevance> 0 </Relevance>
+			<Comment> Lunch at random place   </Comment>
+		</Docid>
+		<Docid id = "125283">
+			<Relevance> 0  </Relevance>
+			<Comment> home lunch   </Comment>
+		</Docid>
+		<Docid id = "132642">
+			<Relevance> 0 </Relevance>
+			<Comment>  It's about dinner  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 30 ######################################## -->
+		
+		<Docid id = "133067">
+			<Relevance> 1 </Relevance>
+			<Comment> contains all keywords   </Comment>
+		</Docid>
+		<Docid id = "133392">
+			<Relevance> 0 </Relevance>
+			<Comment> home made lunch   </Comment>
+		</Docid>
+		<Docid id = "133748">
+			<Relevance> 0 </Relevance>
+			<Comment>  Don'e have lunch  </Comment>
+		</Docid>
+		<Docid id = "134382">
+			<Relevance> 1 </Relevance>
+			<Comment> delicious food restaurants   </Comment>
+		</Docid>
+		<Docid id = "135485">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant with all keywords  </Comment>
+		</Docid>
+		<Docid id = "136168">
+			<Relevance> 0 </Relevance>
+			<Comment> not restaurants   </Comment>
+		</Docid>
+		<Docid id = "138505">
+			<Relevance> 1 </Relevance>
+			<Comment> relevant   </Comment>
+		</Docid>
+		<Docid id = "138826">
+			<Relevance> 1 </Relevance>
+			<Comment> restaurant for Thai delicious food   </Comment>
+		</Docid>
+		<Docid id = "139193">
+			<Relevance> 1 </Relevance>
+			<Comment> all required keywords with proper context   </Comment>
+		</Docid>
+		<Docid id = "142161">
+			<Relevance> 1 </Relevance>
+			<Comment>  Restaurants with popular dishes  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 40 ######################################## -->
+		
+		<Docid id = "142760">
+			<Relevance> 1 </Relevance>
+			<Comment> Found all keywords   </Comment>
+		</Docid>
+		<Docid id = "143531">
+			<Relevance> 0  </Relevance>
+			<Comment>  Home made lunch  </Comment>
+		</Docid>
+		<Docid id = "146393">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query  </Comment>
+		</Docid>
+		<Docid id = "147706">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "149110">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "149223">
+			<Relevance> 1 </Relevance>
+			<Comment>  Matches with all keywords  </Comment>
+		</Docid>
+		<Docid id = "150549">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "153134">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "153323">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "155553">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 50 ######################################## -->
+		
+		<Docid id = "156938">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "164346">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "168001">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "176670">
+			<Relevance> 0 </Relevance>
+			<Comment>  not  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "176995">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "179379">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "179392">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "181541">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "181858">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "184233">
+			<Relevance> 0 </Relevance>
+			<Comment> Not relevant   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 60 ######################################## -->
+		
+		<Docid id = "184650">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not relevant, doesn't have lunch keyword  </Comment>
+		</Docid>
+		<Docid id = "186331">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "188062">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "188540">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "189087">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "191193">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "193639">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "194975">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "195060">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "197104">
+			<Relevance> 0 </Relevance>
+			<Comment> Not  Relevant for query context  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 70 ######################################## -->
+		
+		<Docid id = "198221">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "199871">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "203665">
+			<Relevance> 0 </Relevance>
+			<Comment> Not Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "205169">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "208184">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "209425">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "210630">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "216343">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "219585">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<Docid id = "221323">
+			<Relevance> 1 </Relevance>
+			<Comment> Matches with all keywords   </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 80 ######################################## -->
+		
+		<Docid id = "221552">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "222139">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "224653">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "226036">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "226437">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "227156">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "228118">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "229032">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "229134">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "229662">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not  Relevant for query context  </Comment>
+		</Docid>
+		<!-- ################################################### QUERY 7 End of first 90 ######################################## -->
+		
+		<Docid id = "230498">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "231289">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "231440">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "233992">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "236307">
+			<Relevance> 0 </Relevance>
+			<Comment>  Not  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "238229">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "239078">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "239700">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "241331">
+			<Relevance> 1 </Relevance>
+			<Comment> Relevant for query context  </Comment>
+		</Docid>
+		<Docid id = "243966">
+			<Relevance> 1 </Relevance>
+			<Comment>  Relevant for query context  </Comment>
+		</Docid>
+	</Queryid> 
+</Root>
